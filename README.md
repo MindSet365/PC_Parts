@@ -17,14 +17,14 @@ Have you ever wondered what the inside of a computer looks like or what each par
 
 ## 🛠️ Built With
 
-[![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) **React:** A powerful JavaScript library for building user interfaces.
+[![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) &nbsp; **A powerful JavaScript library for building user interfaces.**
 
-[![TailwindCSS](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) **Tailwind CSS:** A utility-first CSS framework for rapid and custom UI development.
+[![TailwindCSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) &nbsp; **A utility-first CSS framework for rapid and custom UI development.**
 
-[![Three.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) **Three.js:** A JavaScript 3D library that makes creating and displaying animated 3D graphics in the browser with efficiency.
+[![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) &nbsp; **A JavaScript 3D library that makes creating and displaying animated 3D graphics in the browser with efficiency.**
 
-[![React Three Fiber](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) **React-Three-Fiber:** For handling the creation and rendering of 3D graphics in a declarative way.
+[![React Three Fiber](https://img.shields.io/badge/react_three_fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) &nbsp; **For handling the creation and rendering of 3D graphics in a declarative way.**
 
-[![React Router](https://img.shields.io/badge/-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) **React Router:** For managing navigation within the application.
+[![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) &nbsp; **For managing navigation within the application.**
 
 # Notes:
