@@ -25,4 +25,3 @@ Have you ever wondered what the inside of a computer looks like or what each par
 
 [![React Three Fiber](https://img.shields.io/badge/react_three_fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) &nbsp; **For handling the creation and rendering of 3D graphics in a declarative way.**
 
-[![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) &nbsp; **For managing navigation within the application.**
