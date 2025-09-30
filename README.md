@@ -17,7 +17,7 @@ Have you ever wondered what the inside of a computer looks like or what each par
 
 ## 🛠️ Built With
 
-[![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) &nbsp; **A powerful JavaScript library for building user interfaces.**
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp; **A powerful React framework for building user interfaces alongside server funcionality.**
 
 [![TailwindCSS](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) &nbsp; **A utility-first CSS framework for rapid and custom UI development.**
 
